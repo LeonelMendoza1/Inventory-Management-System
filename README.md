@@ -18,7 +18,7 @@ El objetivo de este proyecto es demostrar habilidades en el desarrollo backend, 
 
 ## Tecnologías Utilizadas
 
-- **Spring Boot 3.2.5:**
+- **Spring Boot 3.4.3:**
 - **Java 17:**
 - **MySQL 8.0:** 
 - **Spring Data JPA:**
