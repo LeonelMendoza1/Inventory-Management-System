@@ -1,6 +1,6 @@
 # Sistema de Gestión de Inventarios y Ventas
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2.5-brightgreen) ![Java](https://img.shields.io/badge/Java-17-blue) ![MySQL](https://img.shields.io/badge/MySQL-8.0-orange) ![Maven](https://img.shields.io/badge/Maven-3.9.6-yellow) ![Swagger](https://img.shields.io/badge/Swagger-2.5.0-lightgrey)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.4.3-brightgreen) ![Java](https://img.shields.io/badge/Java-17-blue) ![MySQL](https://img.shields.io/badge/MySQL-8.0-orange) ![Maven](https://img.shields.io/badge/Maven-yellow) ![Swagger](https://img.shields.io/badge/Swagger-2.5.0-lightgrey)
 
 ## Descripción
 
